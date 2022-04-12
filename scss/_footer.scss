@@ -42,8 +42,11 @@
     }
     .footer_header_form_group_submit {
         padding: 0.5rem;
-        width: 10rem;
-        border-radius: 45%;
+        padding: 10px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        width: 6rem;
+        border-radius: 55px;
         background-color: $footer-form-button-color;
         border: none;
     }
